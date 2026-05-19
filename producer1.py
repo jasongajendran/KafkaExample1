@@ -27,3 +27,5 @@ except KeyboardInterrupt:
     print('\nKeyboard interrupt detected. Exiting producer.')
 finally:
     producer.close()
+
+    
